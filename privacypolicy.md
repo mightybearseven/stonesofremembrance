@@ -3,17 +3,17 @@
 **Effective Date:** [EFFECTIVE DATE]
 **Last Updated:** [EFFECTIVE DATE]
 
-[YOUR NAME OR COMPANY] ("we," "us," or "our") operates the Blessings mobile application (the "App"). This Privacy Policy explains how we handle information when you use the App.
+[YOUR NAME OR COMPANY] ("we," "us," or "our") operates the Stones of Remembrance mobile application (the "App"). This Privacy Policy explains how we handle information when you use the App.
 
-We have built Blessings with privacy as a core principle. Your blessings, journal entries, and personal reflections belong to you.
+We have built Stones of Remembrance with privacy as a core principle. Your Stones of Remembrance, journal entries, and personal reflections belong to you.
 
 ## 1. Information We Do Not Collect
 
-We do not collect, store, or transmit the contents of your journal entries. All blessings, titles, tags, and reflections you write are stored locally on your device. We never see this content. We never transmit it to our servers because we do not operate servers that receive it.
+We do not collect, store, or transmit the contents of your journal entries. All entries, titles, tags, and reflections you write are stored locally on your device. We never see this content. We never transmit it to our servers because we do not operate servers that receive it.
 
 We do not collect or use any of the following:
 
-- The contents of your blessings or journal entries
+- The contents of your Stones of Remembrance or journal entries
 - Photos, audio, or other media you attach to entries
 - Your name, email address, or contact information (unless you voluntarily contact us)
 - Your precise location
@@ -38,7 +38,7 @@ If you choose to enable iCloud sync, your journal entries are stored in your per
 
 ## 4. Notifications
 
-The App uses local notifications to remind you of past blessings. These notifications are scheduled and delivered entirely on your device. The content of notifications is not transmitted to our servers or any third party.
+The App uses local notifications to remind you of past entries. These notifications are scheduled and delivered entirely on your device. The content of notifications is not transmitted to our servers or any third party.
 
 ## 5. Children's Privacy
 
