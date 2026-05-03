@@ -3,7 +3,7 @@
 **Effective Date:** 5/1/2026
 **Last Updated:** 5/1/2026
 
-Welcome to Blessings (the "App"). These Terms of Service ("Terms") govern your use of the App provided by Kenneth Broholm ("we," "us," or "our"). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, please do not use the App.
+Welcome to Stones of Remembrance (the "App"). These Terms of Service ("Terms") govern your use of the App provided by Kenneth Broholm ("we," "us," or "our"). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
 ## 1. The App
 
